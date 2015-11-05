@@ -1,3 +1,6 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/c5e085acfda54886be03676d92e91b7f)](https://www.codacy.com/app/Stratajet/ops_genie)
+
+
 # OpsGenie
 
 This gem is a work in progress and currently only allow the creation of alerts. 
